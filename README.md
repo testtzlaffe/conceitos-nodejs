@@ -5,10 +5,7 @@
 </h3>
 
 <div align="center">
-    
     <img src="https://img.shields.io/badge/server-nodejs-success"/>
-    
-   
 </div>
 
 <p align="center">
@@ -17,6 +14,8 @@
   <a href="#run">Rodando o projeto</a> | 
   <a href="#contato">Contato</a>
 </p>
+
+<br>
 
 <a id="sobre"></a>
 
