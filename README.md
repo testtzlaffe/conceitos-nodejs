@@ -8,6 +8,8 @@
     <img src="https://img.shields.io/badge/server-nodejs-success"/>
 </div>
 
+<br>
+
 <p align="center">
   <a href="#sobre">Sobre o desafio</a> | 
   <a href="#tecnologias">Tecnologias</a> | 
