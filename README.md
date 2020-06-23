@@ -27,6 +27,8 @@ Este é o segundo desafio do Bootcamp GoStack #12, da <a href="https://rocketsea
 
 Essa é uma aplicação para armazenar repositórios. Permite a criação, listagem, atualização e remoção dos repositórios, e além disso permite que os repositórios possam receber "likes".
 
+<a id="tecnologias"></a>
+
 ## :computer: Tecnologias
 
 O projeto foi desenvolvido utilizando as tecnologias:
